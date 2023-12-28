@@ -1,7 +1,7 @@
 <?php
     $host = "localhost";
-    $username = "root";
-    $password = "new-root-password";
+    $username = "my_dbuserSP";
+    $password = "my_dbuserSP1234";
     $database = "phone_usage";
 
     // Create a connection
