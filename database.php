@@ -1,7 +1,7 @@
 <?php
     $host = "localhost";
     $username = "root";
-    $password = "";
+    $password = "rootP";
     $database = "phone_usage";
 
     // Create a connection
